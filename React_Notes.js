@@ -29,7 +29,6 @@
 
     // what is jsx 
     // definition - JSX is a syntax extension for JavaScript that allows us to write HTML-like code in our JavaScript files. JSX is used to describe the UI of our components in a declarative way.
-// CSS in React
     // In reactjs, we can use CSS to style our components. We can use inline CSS, internal CSS, and external CSS to style our components.
 
 
